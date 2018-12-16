@@ -1,1 +1,0 @@
-# VMware-VM-Badges-and-Alerts
